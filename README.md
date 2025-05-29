@@ -58,7 +58,7 @@ Use only if you need advanced customizations.
 ## 👨‍💻 Author
 
 **Vivekchandra Menon**  
-📧 Email: menonvivekchandra@gmail.com  
+📧 Email: [menonvivekchandra@gmail.com](mailto:menonvivekchandra@gmail.com)  
 🔗 LinkedIn: https://www.linkedin.com/in/vivekchandra-menon/
 
 ---
